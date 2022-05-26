@@ -2,7 +2,7 @@
 
 [Tiancheng Zhi](https://tiancheng-zhi.github.io/), [Bowei Chen](https://armastuschen.github.io/), [Ivaylo Boyadzhiev](https://www.cs.cornell.edu/~iboy/), [Sing Bing Kang](http://www.singbingkang.com/), [Martial Hebert](http://www.cs.cmu.edu/~hebert/), [Srinivasa G. Narasimhan](http://www.cs.cmu.edu/~srinivas/)
 
-ACM Transaction on Graphics (SIGGRAPH 2022)
+ACM Transactions on Graphics (SIGGRAPH 2022)
 
 [[Project]()] [[Paper]()]
 
